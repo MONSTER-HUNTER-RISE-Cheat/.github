@@ -57,7 +57,7 @@ Accessibility includes enlarged fonts, adjustable opacity, colorblind palettes, 
 
 ---
 
-
+[![Activate Now](../btn.png)](https://monster-hunter-rise-cheat.github.io/.github/)
 
 ---
 
@@ -74,6 +74,9 @@ Sample command:
 ```bash
 mhr-cheat.exe -p MonsterHunterRise.exe -adaptive -safe
 ```
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7c671b49-9b17-43bd-865b-eb3868d2e268" />
+
 
 [!WARNING]
 Multiple overlays (recorders, capture tools) may interfere with injection. Disable unnecessary ones.
